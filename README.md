@@ -16,7 +16,7 @@
 
 This is a Unity Custom Asset. For Unity implementation see the documentation sub folder.
 
-![plot](./Resources/MaterialRipperPreview.png)
+<img src="./Resources/MaterialRipperPreview.png" alt="Ripper" width="200"/>
 
 
 ### Built With
