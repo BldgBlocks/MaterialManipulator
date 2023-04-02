@@ -1,7 +1,7 @@
 {
   "name": "com.buildingblocks.unityextensions.materialmanipulator",
   "version": "1.0.0",
-  "displayName": "PID Control",
+  "displayName": "Material Manipulator",
   "description": "A set of editor tools for managing materials.
   - The Ripper helps you group and organize Materials for your GameObjects.
   It creates a separate set of Materials for the selected GameObject and its hierarchy,
