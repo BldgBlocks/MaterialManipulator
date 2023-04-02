@@ -18,6 +18,7 @@ This is a Unity Custom Asset. For Unity implementation see the documentation sub
 
 
 
+![MaterialReplacerPreview](https://user-images.githubusercontent.com/122186550/229328077-822a4112-4735-4a3c-8e4f-a4a4f53b325e.png)
 
 ### Built With
 
