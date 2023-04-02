@@ -49,7 +49,7 @@ Choose to import the samples within the package manager options if available.
 <!-- LICENSE -->
 ## License
 
-Distributed according to the Unity Asset Store terms and conditions.
+MIT
 
 
 
