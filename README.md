@@ -16,7 +16,7 @@
 
 This is a Unity Custom Asset. For Unity implementation see the documentation sub folder.
 
-![Image Caption](MaterialRipperPreview.png)
+![plot](./Resources/MaterialRipperPreview.png)
 
 
 ### Built With
