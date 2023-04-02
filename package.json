@@ -1,0 +1,30 @@
+{
+  "name": "com.buildingblocks.unityextensions.materialmanipulator",
+  "version": "1.0.0",
+  "displayName": "PID Control",
+  "description": "A set of editor tools for managing materials. A ripper that finds all materials in a heirarchy, creates new and organized instances, and assigns those to the respective places. A replacer that simply finds and replaces materials in all renderers in a heirarchy.",
+  "unity": "2021.3",
+  "unityRelease": "19f1",
+  "licensesUrl": "https://unity.com/legal/as-terms",
+  "license": "See url",
+  "keywords": [
+    "editor",
+    "materials",
+    "organize"
+  ],
+  
+    "samples": [
+    {
+      "displayName": "",
+      "description": "",
+      "path": ""
+    }
+  ],
+
+  "author": {
+    "name": "Building Blocks",
+    "email": "support@buildingblocksgamedesign.com",
+    "url": "buildingblocksgamedesign.com"
+  },
+  "type": "tool"
+}
