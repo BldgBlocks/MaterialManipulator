@@ -29,7 +29,7 @@ This is a Unity Custom Asset. For Unity implementation see the documentation sub
 <!-- GETTING STARTED -->
 ## Getting Started
 
-See Unity specific documentation withing the Assets folder.
+See Unity specific documentation within the Assets folder.
 
 ### Prerequisites
 
