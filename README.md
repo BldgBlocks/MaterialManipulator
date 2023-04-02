@@ -16,7 +16,6 @@
 
 This is a Unity Custom Asset. For Unity implementation see the documentation sub folder.
 
-<img src="./Resources/MaterialRipperPreview.png" alt="Ripper" width="200"/>
   <div style="display: flex; justify-content: center;">
   <img src="./Resources/MaterialRipperPreview.png" alt="Ripper" width="200"/>
   <img src="./Resources/MaterialReplacerPreview.png" alt="Replacer" width="200"/>
